@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sara-wong
-- 👀 I’m interested in creative coding
+- 👀 I’m interested in creative coding & product design
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on fun social good projects
 - 📫 How to reach me sarawonginfo@gmail.com

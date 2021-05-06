@@ -2,7 +2,7 @@
 - 👀 I’m interested in creative coding & product design
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on fun social good projects
-- 📫 How to reach me sarawonginfo@gmail.com
+- 📫 How to reach me sarawonginfo@gmail.com / sarawong.persona.co
 
 <!---
 sara-wong/sara-wong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
